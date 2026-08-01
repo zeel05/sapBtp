@@ -1,0 +1,2 @@
+
+GET http://localhost:4004/odata/v4/product/printhelloWorld(input='helloo%20%20hi')
