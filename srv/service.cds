@@ -1,3 +1,10 @@
+@protocol : 'rest'
 service Product{
     function printhelloWorld (input: String) returns String;
+
+    function addition (num1 : Integer , num2 : Integer ) returns Integer;
+
+    @open
+    type object{}
+    function myFunction (category: Integer) returns object;
 }
