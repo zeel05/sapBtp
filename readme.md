@@ -1,6 +1,9 @@
 # Getting Started
 
-# Production shop application details
+# Production shop application details 
+1. Clone the repo from github inside BAS.
+2. run the browser or go to your file in test.http and can do the testing.
+3. then do cds watch in terminal.
 
 # cds add data
 
